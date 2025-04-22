@@ -23,7 +23,7 @@ struct HomeView: View {
     
     var body: some View {
         ZStack {
-            currentBackground
+                currentBackground
             VStack {
                 if vwModel.homeData.isEmpty {
                     ProgressView()
@@ -127,6 +127,7 @@ struct HomeView: View {
                 selectedPage = 0
                 vwModel.currentWeatherDetails = nil
                 vwModel.fetchWeatherDetails()
+                currentBackground = animatedBackground(for: vwModel.getCurrentWatherIcon(for: selectedPage)) as! AnyView
             }
             .padding(.top, 0)
         }
