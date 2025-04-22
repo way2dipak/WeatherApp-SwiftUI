@@ -26,7 +26,7 @@ enum AppStorageKey: String {
 }
 
 var isDayTime: Bool = true
-var apiKey: String = "ocSpMdaABj9S97i0D8b7QT0ouwTjoWEi"//"HExaSaNVhFaixSgNuL9q27xteeB1hO0t"
+var apiKey: String = ""
 var isMockData: Bool = UserDefaults.standard.bool(forKey: "mockData")
 var apiFetchIntervalInMins: String {
     get {
