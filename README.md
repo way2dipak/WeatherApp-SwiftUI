@@ -38,7 +38,7 @@ A beautifully designed weather app built using **SwiftUI** that fetches real-tim
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/WeatherApp-SwiftUI.git
+git clone https://github.com/way2dipak/WeatherApp-SwiftUI.git
 cd WeatherApp-SwiftUI
 ```
 
