@@ -1,0 +1,170 @@
+{
+    "Headline": {
+        "EffectiveDate": "2025-03-03T07:00:00+05:30",
+        "EffectiveEpochDate": 1740965400,
+        "Severity": 7,
+        "Text": "Seasonal temperatures for the next 5 days",
+        "Category": "",
+        "EndDate": null,
+        "EndEpochDate": null,
+        "MobileLink": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?unit=c&lang=en-us"
+    },
+    "DailyForecasts": [
+        {
+            "Date": "2025-03-02T07:00:00+05:30",
+            "EpochDate": 1740879000,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 18.1,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 33.8,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "Day": {
+                "Icon": 6,
+                "IconPhrase": "Mostly cloudy",
+                "HasPrecipitation": false
+            },
+            "Night": {
+                "Icon": 35,
+                "IconPhrase": "Partly cloudy",
+                "HasPrecipitation": false
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?day=1&unit=c&lang=en-us",
+            "Link": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?day=1&unit=c&lang=en-us"
+        },
+        {
+            "Date": "2025-03-03T07:00:00+05:30",
+            "EpochDate": 1740965400,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 18.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 34.4,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "Day": {
+                "Icon": 2,
+                "IconPhrase": "Mostly sunny",
+                "HasPrecipitation": false
+            },
+            "Night": {
+                "Icon": 35,
+                "IconPhrase": "Partly cloudy",
+                "HasPrecipitation": false
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?day=2&unit=c&lang=en-us",
+            "Link": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?day=2&unit=c&lang=en-us"
+        },
+        {
+            "Date": "2025-03-04T07:00:00+05:30",
+            "EpochDate": 1741051800,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 18.4,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 34.1,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "Day": {
+                "Icon": 4,
+                "IconPhrase": "Intermittent clouds",
+                "HasPrecipitation": false
+            },
+            "Night": {
+                "Icon": 34,
+                "IconPhrase": "Mostly clear",
+                "HasPrecipitation": false
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?day=3&unit=c&lang=en-us",
+            "Link": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?day=3&unit=c&lang=en-us"
+        },
+        {
+            "Date": "2025-03-05T07:00:00+05:30",
+            "EpochDate": 1741138200,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 19.6,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 34.1,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "Day": {
+                "Icon": 3,
+                "IconPhrase": "Partly sunny",
+                "HasPrecipitation": false
+            },
+            "Night": {
+                "Icon": 33,
+                "IconPhrase": "Clear",
+                "HasPrecipitation": false
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?day=4&unit=c&lang=en-us",
+            "Link": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?day=4&unit=c&lang=en-us"
+        },
+        {
+            "Date": "2025-03-06T07:00:00+05:30",
+            "EpochDate": 1741224600,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 18.9,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Maximum": {
+                    "Value": 34.0,
+                    "Unit": "C",
+                    "UnitType": 17
+                }
+            },
+            "Day": {
+                "Icon": 1,
+                "IconPhrase": "Sunny",
+                "HasPrecipitation": false
+            },
+            "Night": {
+                "Icon": 33,
+                "IconPhrase": "Clear",
+                "HasPrecipitation": false
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?day=5&unit=c&lang=en-us",
+            "Link": "http://www.accuweather.com/en/in/mahadevapura/2864201/daily-weather-forecast/2864201?day=5&unit=c&lang=en-us"
+        }
+    ]
+}
